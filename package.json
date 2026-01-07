@@ -1,0 +1,24 @@
+{
+  "name": "youtube_x_twitter",
+  "version": "1.0.0",
+  "description": "backend project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/snehagupta2611/Youtube_X_Twitter#readme",
+  "bugs": {
+    "url": "https://github.com/snehagupta2611/Youtube_X_Twitter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehagupta2611/Youtube_X_Twitter.git"
+  },
+  "license": "ISC",
+  "author": "Sneha Gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
